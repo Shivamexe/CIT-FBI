@@ -1,0 +1,17 @@
+.Main {
+  height: 95vh;
+  background-color: white;
+  border-radius: 20px;
+  max-width: 80%;
+  margin: 0 auto;
+  margin-top: 35px !important;
+  border-bottom: 5px solid $border-color;
+  border-top: 5px solid $border-color;
+  overflow: hidden;
+  overflow: scroll;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

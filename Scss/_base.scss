@@ -1,0 +1,27 @@
+// Settings
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: 'Anek Devanagari', sans-serif;
+  overflow: hidden;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(hsl(0, 0%, 0%), hsla(241, 84%, 51%, 0.558)), url('/img/gta-san.jpg');
+  background-size: cover;
+}
+
+// Colors
+
+$border-color: rgb(33, 97, 201);
