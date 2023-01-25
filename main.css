@@ -59,17 +59,6 @@ body {
   -webkit-animation: BottomToTop 1s ease-out;
           animation: BottomToTop 1s ease-out;
 }
-.form__notes {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.form__note {
-  color: red;
-  font-weight: 700;
-  margin-bottom: 0;
-  font-size: 13px;
-}
 .form__title {
   font-weight: 700;
   color: rgb(33, 97, 201);
@@ -192,21 +181,9 @@ body {
   .Success {
     font-size: 12px;
   }
-  .form__note {
-    font-size: 12px;
-  }
 }
 @media (max-width: 900px) {
   .Main {
     max-width: 90%;
   }
-  .form__note {
-    font-size: 12px;
-  }
-}
-.span_note {
-  color: black;
-  font-weight: 500;
-  -webkit-text-decoration-line: none;
-          text-decoration-line: none;
 }/*# sourceMappingURL=main.css.map */
