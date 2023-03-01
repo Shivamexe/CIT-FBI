@@ -17,7 +17,7 @@ html {
 
 body {
   height: 100vh;
-  background: linear-gradient(hsl(0deg, 0%, 0%), hsla(241deg, 84%, 51%, 0.558)), url("/img/gta-san.jpg");
+  background: linear-gradient(hsl(0deg, 0%, 0%), hsla(241deg, 84%, 51%, 0.558)), url("../img/gta-san.jpg");
   background-size: cover;
 }
 
