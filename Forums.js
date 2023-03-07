@@ -33,7 +33,7 @@ Western Avenue/Olympic Boulevard at Rodeo, West Los Santos, San Andreas[/font]
   let SerialData = document.getElementById("Serial").value;
   let rateEnlish = "[color=#283593][b]A.4)[/color] [b]Rate English level[/b]:";
   let rateEnlishData = document.getElementById("Rate_english").value;
-  let Nationality = "[color=#283593][b]A.5)[/color] [b]Nationality & Timezone[/b]";
+  let Nationality = "[color=#283593][b]A.5)[/color] [b]Nationality & Timezone[/b]:";
   let NationalityData = document.getElementById("Nationality").value;
   let formerGroups = "[color=#283593][b]A.6)[/color] [b]Former groups[/b] [i](state the reason of departure)[/i]:";
   let formerGroupsData = document.getElementById("Former_groups").value;
@@ -42,7 +42,7 @@ Western Avenue/Olympic Boulevard at Rodeo, West Los Santos, San Andreas[/font]
   let hr = "[hr]";
 
   let SecondSection = "[size=10pt][color=#283593][b]B) Questions[/b][/color][/size]";
-  let About = "[b][color=#283593]B.1)[/color] Tell us about yourself[/b]";
+  let About = "[b][color=#283593]B.1)[/color] Tell us about yourself[/b]:";
   let AboutData = document.getElementById("About").value;
   let whyFBI = "[b][color=#283593]B.2)[/color] What attracts you to choose the FBI[/b]:";
   let whyFBIData = document.getElementById("WhyFBI").value;
@@ -89,7 +89,9 @@ ${hr}
 ${SecondSection}
 
 ${About} ${AboutData}
+
 ${whyFBI} ${whyFBIData}
+
 ${Roleplay} ${RolePlayData}
 
 ${hr}
