@@ -97,7 +97,6 @@ ${Thirdsection}
 
 ${SSstats}${SSstatsData}${SSLinksStats}
 ${SSpunishlog}${SSpunishlogData}${SSLinksPunishlog}
-${SSrecentlog}${SSrecentlogData}${SSLinksRecentlogs}
 ${SShistoryleft}${SShistoryleftData}${SSLinksHistoryLeft}
 ${SShistoryjoined}${SShistoryjoinedData}${SSLinksHistoryJoined}
 
