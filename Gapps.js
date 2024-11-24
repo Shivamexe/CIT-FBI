@@ -40,8 +40,6 @@ function generateGapps() {
   let SSstatsData = document.getElementById("SSstats").value;
   let SSpunishlog = "2. /punishlog:";
   let SSpunishlogData = document.getElementById("SSpunishlog").value;
-  let SSrecentlog = "3. /recentlogs:";
-  let SSrecentlogData = document.getElementById("SSrecentlogs").value;
   let SShistoryleft = "4. /history(left):";
   let SShistoryleftData = document.getElementById("SShistoryleft").value;
   let SShistoryjoined = "5. /history(joined):";
@@ -70,7 +68,6 @@ ${Thirdsection}
 
 ${SSstats} ${SSstatsData}
 ${SSpunishlog} ${SSpunishlogData}
-${SSrecentlog} ${SSrecentlogData}
 ${SShistoryleft} ${SShistoryleftData}
 ${SShistoryjoined} ${SShistoryjoinedData}`;
 
