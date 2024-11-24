@@ -53,7 +53,6 @@ Western Avenue/Olympic Boulevard at Rodeo, West Los Santos, San Andreas[/font]
 
   let SSLinksStats = "][b]Stats[/b][/url]";
   let SSLinksPunishlog = "][b]Punishlog[/b][/url]";
-  let SSLinksRecentlogs = "][b]Recentlogs[/b][/url]";
   let SSLinksHistoryLeft = "][b]History(left)[/b][/url]";
   let SSLinksHistoryJoined = "][b]History(joined)[/b][/url]";
 
@@ -62,8 +61,6 @@ Western Avenue/Olympic Boulevard at Rodeo, West Los Santos, San Andreas[/font]
   let SSstatsData = document.getElementById("SSstats").value;
   let SSpunishlog = "[b][color=#283593]C.2) [/color]Punishlog:[/b] [url=";
   let SSpunishlogData = document.getElementById("SSpunishlog").value;
-  let SSrecentlog = "[b][color=#283593]C.3) [/color]Recentlogins:[/b] [url=";
-  let SSrecentlogData = document.getElementById("SSrecentlogs").value;
   let SShistoryleft = "[b][color=#283593]C.4) [/color]History:[/b]: [url=";
   let SShistoryleftData = document.getElementById("SShistoryleft").value;
   let SShistoryjoined = "[b][color=#283593]C.5) [/color]History:[/b]: [url=";
